@@ -1,4 +1,8 @@
-# 👩‍💻 Naina Morya  
+## Hey there 👋
+# 👩‍💻I am Naina final-year B.Tech Computer Science student specializing in Data Science and Machine Learning, with strong experience in building intelligent systems and research-driven AI solutions.
+I work on developing predictive models, explainable AI systems, and real-world applications across domains such as healthcare, aerospace, and data analytics. My approach combines strong analytical thinking with practical implementation to solve complex problems using data.
+I have hands-on experience with machine learning, NLP, data analysis, and full-stack development, along with building dashboards and AI-powered applications. I am also actively involved in research, with multiple publications in AI and applied machine learning.
+I am particularly interested in Explainable AI (XAI), predictive modeling, and applied artificial intelligence, and I aim to contribute to impactful, real-world innovations through data-driven solutions.
 ### 🚀 Data Scientist | Machine Learning Engineer | AI Researcher  
 
 <p align="center">
@@ -7,16 +11,6 @@
   💼 <a href="https://www.linkedin.com/in/naina999888">LinkedIn</a> &nbsp; | &nbsp;
   💻 <a href="https://github.com/Naina138">GitHub</a>
 </p>
-
----
-
-## 🌟 About Me  
-
-✨ Final-year B.Tech (CSE) student specializing in **Data Science & Machine Learning**  
-🤖 Building **AI-driven systems, predictive models & research solutions**  
-📊 Passionate about applying AI in **Healthcare, Aerospace & Data Analytics**  
-🧠 Focused on **Explainable AI (XAI) & real-world impact**  
-
 ---
 
 ## 🎯 Research Interests  
