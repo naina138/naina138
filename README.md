@@ -71,7 +71,6 @@ Python | Java | C | C++ | SQL | HTML | CSS | JavaScript
 * Aircraft Stability Analysis using Control Systems (2024)
 
 ---
-
 ## 🔥 Contribution Graph
 
 ![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Naina138\&theme=tokyo-night)
