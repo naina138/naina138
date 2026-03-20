@@ -64,28 +64,7 @@ I am particularly interested in Explainable AI (XAI), predictive modeling, and a
 - 🎯 Predictive Modeling  
 - 📊 Dashboard Development  
 - ✍️ Research & Technical Writing  
-
----
-
-## 💼 Experience  
-
-### 🔹 Data Science / ML / DL Intern  
-📍 *Pisoft Informatics Pvt. Ltd. (2026)*  
-- 🤖 Built ML/DL models for predictive analytics  
-- ⚙️ Performed preprocessing & feature engineering  
-- 🚀 Developed AI pipelines for real-world datasets  
-
-### 🔹 Machine Learning & Data Science Intern  
-📍 *Rising Stars (2024–2025)*  
-- 🧠 Developed hybrid ML models  
-- 📊 Built dashboards using Power BI & Streamlit  
-- 👩‍🏫 Mentored interns & worked on NLP  
-
-### 🔹 Web Development Intern  
-📍 *Rising Stars (2023–2024)*  
-- 🌐 Developed full-stack applications  
-- ⚙️ Built APIs & interactive UI  
-
+  
 ---
 
 ## 📊 Projects  
